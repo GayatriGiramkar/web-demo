@@ -1,0 +1,72 @@
+.icon{
+    margin-left: 45%;  
+}
+.fa{
+    color: blue;
+    padding-left: 5%;
+}
+.home{
+    padding-top: 1%;
+    padding-left: 1%;  
+}
+.fab{
+    padding-left: 4%;
+}
+.btn{
+    border-radius: 25px;
+}
+.card4{
+    border-radius: 25px;
+    margin-left: 10%;
+    width: 70%;
+}
+.card3{
+    border-radius: 25px;
+    margin-left: 28%;
+    width: 70%;
+}
+
+.title{
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+.titleabout{
+    font-size: xx-large;
+    color: blue;
+    font-weight: bold;  
+}
+.titlebusy{
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;  
+}
+/* .clients{
+    background-color: #F5F5F5;
+} */
+.copyright{
+     text-align: center; 
+     color: gray; 
+}
+.png{
+    margin-left: 10%;
+}
+.business{
+    /* background-image: url("../assets/img/banner-bg.png"); */
+    background-color: rgb(39, 39, 78);
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    color: white;  
+}
+
+.footer{
+    padding-top: 50px;
+    color: white;
+}
+/* .agm-map{
+    height: 600px;
+
+} */
