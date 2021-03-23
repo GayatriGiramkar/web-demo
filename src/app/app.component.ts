@@ -7,8 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'web-demo';
-  //  google: any;
-  // lat: number=25.1222965;
-  // long: number=55.3954036;
-  // result: string='';
 }
